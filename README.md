@@ -1,0 +1,2 @@
+# Servers-Peripherals
+ The Final project is based on a VMware-virtualized Fedora 24 Linux server and Fedora 24 Linux client setup and configured with the networking based on the project requests for computers, a network server and all other peripherals, the systems selected meets and exceeds all their needs. This task helped me to upgrade and improve the abilities that I gained from labs. This project also helped me to learn Install/configure and manage Linux OS as a host operating system in virtualized hardware configurations.
